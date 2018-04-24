@@ -40,7 +40,6 @@ GEM A INSTALLER
 
 Une fois le fichier téléchargé et dans le dossier de chaque app à l'ouverture, faire cette commande pour installer les Gem :
 bundle install
-gem install faker
 
 
 REALISE PAR JEROME DAVID LE 24/04/2018
